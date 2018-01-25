@@ -1,11 +1,8 @@
-# React + ejs Templating(Server-side Universal rendering)
+### React + ejs Templating(Server-side Universal rendering)
 
 ### Database:
-Used Mongodb cloud server, hence no need to run mongodb instance from your computer. Connections are already made,and working like a charm(Tested it).
-### Elastic Search: 
-Have been setup in amazon cloud. Connections are yet to be configured.
-### React: 
-React components are yet to be made by integrating stackoverflow desing pages.
+1. MongoDB: Used Mongodb cloud server, hence no need to run mongodb instance from your computer. Connections are already made.
+2. Elastic Search:  Have been setup in amazon cloud. Connections are yet to be configured.
 
 ### To run in production mode:
 ```npm start```
